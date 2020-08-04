@@ -1,6 +1,7 @@
 ### cout << "Hello world! 👋" << endl;
 Hello!  
-As you noticed, I am Edgar :trollface:  
+As you noticed, I am Edgar :trollface:   
+Proud of being Mexican 🇲🇽   
 :small_blue_diamond: I am studying my bachelor's degree in computer engineering at [ESCOM-IPN](https://en.wikipedia.org/wiki/ESCOM). :notebook_with_decorative_cover:  
 :small_blue_diamond: This GitHub profile is used to storage any content or project that will be useful in my career as a software engineer. :octocat:   
 :small_blue_diamond: I have created some school projects using C++ (which is used for Competitive programming as well), Java, JavaScript and PHP. :computer:   
