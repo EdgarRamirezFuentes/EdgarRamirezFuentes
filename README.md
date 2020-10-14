@@ -1,4 +1,4 @@
-### cout << "Hello world! 👋" << endl;
+## print("Hello world! 👋")
 Hello!  
 As you noticed, I am Edgar :trollface:   
 I am proud of being Mexican 🇲🇽   
@@ -6,11 +6,12 @@ I am proud of being Mexican 🇲🇽
 :small_blue_diamond: This GitHub profile is used to storage any content or project that will be useful in my career as a software engineer. :octocat:   
 :small_blue_diamond: I have created some school projects using C++ (which is used for Competitive programming as well), Java, JavaScript and PHP. :computer:   
 :small_blue_diamond: In 2020, I started being member of the [Algorithm club of ESCOM-IPN](https://www.facebook.com/algoritmiaescom). :confetti_ball:  
-:small_blue_diamond: I am currently learning Python and Dart (Flutter) to develop some projects I have been thinking of. :sunglasses:  
-:small_blue_diamond: I am studying Data structures and algorithms because I would like to get an Internship. :books:
+:small_blue_diamond: I am currently learning Web development to create useful tools for the world!:books:    
 
-
-
+### I am currently learning...
+:small_blue_diamond: Python (I am learning to code in Python to create Web apps with Django and other possible useful things throughout my career)  
+:small_blue_diamond: Modern JavaScript (I am learning increase my knowledge of JavaScript and be able to create web apps using React)
+ 
 <!--
 **EdgarRamirezFuentes/EdgarRamirezFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
