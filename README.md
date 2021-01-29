@@ -18,7 +18,7 @@ I am a proud Mexican programmer 🇲🇽
 
 ### I am currently learning...
 :small_blue_diamond: Python (Django)  
-:small_blue_diamond: Modern JavaScript
+:small_blue_diamond: Modern JavaScript  
 :small_blue_diamond: Algorithms and data structures
  
 <!--
