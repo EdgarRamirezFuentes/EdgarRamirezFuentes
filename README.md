@@ -1,16 +1,25 @@
 ## print("Hello world! 👋")
 Hello!  
-As you noticed, I am Edgar :trollface:   
-I am proud of being Mexican 🇲🇽   
-:small_blue_diamond: I am studying my bachelor's degree in computer engineering at [ESCOM-IPN](https://en.wikipedia.org/wiki/ESCOM). :notebook_with_decorative_cover:  
-:small_blue_diamond: This GitHub profile is used to storage any content or project that will be useful in my career as a software engineer. :octocat:   
-:small_blue_diamond: I have created some school projects using C++ (which is used for Competitive programming as well), Java, JavaScript and PHP. :computer:   
-:small_blue_diamond: In 2020, I started being member of the [Algorithm club of ESCOM-IPN](https://www.facebook.com/algoritmiaescom). :confetti_ball:  
-:small_blue_diamond: I am currently learning Web development to create useful tools for the world!:books:    
+I am a proud Mexican programmer 🇲🇽   
+:small_blue_diamond: I am studying my bachelor's degree in computer engineering at [ESCOM-IPN](https://en.wikipedia.org/wiki/ESCOM). :notebook_with_decorative_cover:    
+:small_blue_diamond: I have created some school projects using C++ (which is used for Competitive programming as well), Java, JavaScript, Python and PHP. :computer:   :small_blue_diamond: In 2020, I started being member of the [Algorithm club of ESCOM-IPN](https://www.facebook.com/algoritmiaescom). :confetti_ball: 
+
+### I have used technologies and programming languages such as...
+:small_blue_diamond: C/C++  
+:small_blue_diamond: Java   
+:small_blue_diamond: Python   
+:small_blue_diamond: PHP  
+:small_blue_diamond:JavaScript  
+:small_blue_diamond: Git & GitHub  
+:small_blue_diamond: MySQL  
+:small_blue_diamond: HTML  
+:small_blue_diamond: CSS (Bootstrap)  
+
 
 ### I am currently learning...
-:small_blue_diamond: Python (I am learning to code in Python to create Web apps with Django and other possible useful things throughout my career)  
-:small_blue_diamond: Modern JavaScript (I am learning increase my knowledge of JavaScript and be able to create web apps using React)
+:small_blue_diamond: Python (Django)  
+:small_blue_diamond: Modern JavaScript
+:small_blue_diamond: Algorithms and data structures
  
 <!--
 **EdgarRamirezFuentes/EdgarRamirezFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
