@@ -1,25 +1,25 @@
-## print("Hello world! 👋")
-Hello!  
-I am a proud Mexican programmer 🇲🇽   
-:small_blue_diamond: I am studying my bachelor's degree in computer engineering at [ESCOM-IPN](https://en.wikipedia.org/wiki/ESCOM). :notebook_with_decorative_cover:    
-:small_blue_diamond: I have created some school projects using C++ (which is used for Competitive programming as well), Java, JavaScript, Python and PHP. :computer:   :small_blue_diamond: In 2020, I started being member of the [Algorithm club of ESCOM-IPN](https://www.facebook.com/algoritmiaescom). :confetti_ball: 
+# std::cout << "Hello world! 👋" << std::endl;  
 
-### I have used technologies and programming languages such as...
-:small_blue_diamond: C/C++  
-:small_blue_diamond: Java   
-:small_blue_diamond: Python   
-:small_blue_diamond: PHP  
-:small_blue_diamond:JavaScript  
-:small_blue_diamond: Git & GitHub  
-:small_blue_diamond: MySQL  
-:small_blue_diamond: HTML  
-:small_blue_diamond: CSS (Bootstrap)  
+Hello! My name is Edgar Ramírez. I am a future Computer Systems Engineer who each day of his life tries to learn something new and to be a better person.  
+
+:small_blue_diamond: I am currently studying a Bachelor's degree in Computer Systems engineering at [ESCOM-IPN](https://en.wikipedia.org/wiki/ESCOM).   :notebook_with_decorative_cover:   
+:small_blue_diamond: I love playing videogames with my friends 🎮   
+:small_blue_diamond: I really like to share the knowledge with any person who wants to learn something new 👨‍🏫  
+:small_blue_diamond: Beginner at competitive programming 🧠
+ 🔺 [LeetCode](https://leetcode.com/EdgarRamirezFuentes/)
+ 🔺 [HackerRank](http://codeforces.com/profile/EdgarRamirezFuentes)
+ 🔺 [CodeForces](https://www.hackerrank.com/EdgarRamirezF)
+ 
+
+## I have used technologies and programming languages such as...
+:small_blue_diamond: C/C++, Python (Django), PHP, JavaScript, Git/GitHub, MySQL, HTML5, CSS3 💻
 
 
-### I am currently learning...
-:small_blue_diamond: Python (Django)  
-:small_blue_diamond: Modern JavaScript  
-:small_blue_diamond: Algorithms and data structures
+## I am currently learning...
+:small_blue_diamond: C++  
+:small_blue_diamond: Algorithms and Data structures  
+:small_blue_diamond: Web development  
+
  
 <!--
 **EdgarRamirezFuentes/EdgarRamirezFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
