@@ -4,13 +4,13 @@ Hello! My name is Edgar Ramírez. I am a future Computer Systems Engineer who ea
 
 :small_blue_diamond: I am currently studying a Bachelor's degree in Computer Systems engineering at [ESCOM-IPN](https://en.wikipedia.org/wiki/ESCOM).   :notebook_with_decorative_cover:   
 :small_blue_diamond: I love playing videogames with my friends 🎮   
+:small_blue_diamond: Here you can see [my resume](https://drive.google.com/file/d/1hfEUK6oqEU2hE1pjPp0xU46FfEUi2WQu/view)  
 :small_blue_diamond: I really like to share the knowledge with any person who wants to learn something new 👨‍🏫  
 :small_blue_diamond: Beginner at competitive programming 🧠
  🔺 [LeetCode](https://leetcode.com/EdgarRamirezFuentes/)
  🔺 [HackerRank](http://codeforces.com/profile/EdgarRamirezFuentes)
  🔺 [CodeForces](https://www.hackerrank.com/EdgarRamirezF)
  
-
 ## I have used technologies and programming languages such as...
 :small_blue_diamond: C/C++, Python (Django), PHP, JavaScript, Git/GitHub, MySQL, HTML5, CSS3 💻
 
