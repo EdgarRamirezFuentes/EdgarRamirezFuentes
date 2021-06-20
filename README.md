@@ -1,29 +1,58 @@
-# std::cout << "Hello world! 👋" << std::endl;  
+# std::cout << "Hello world!  <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">" << std::endl; 
 
-Hello! My name is Edgar Ramírez. I am a future Computer Systems Engineer who each day of his life tries to learn something new and to be a better person.  
+ ## [![Twitter Badge](https://img.shields.io/badge/-@EdgarRamirezDev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EdgarRamirezDev)](https://twitter.com/EdgarRamirezDev) [![Linkedin Badge](https://img.shields.io/badge/-edgarramirezfuentes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgarramirezfuentes/)](https://www.linkedin.com/in/edgarramirezfuentes/) [![Gmail Badge](https://img.shields.io/badge/-edgar.ramirez.fuentes.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgar.ramirez.fuentes.dev@gmail.com)](mailto:edgar.ramirez.fuentes.dev@gmail.com)
 
-:small_blue_diamond: I am currently studying a Bachelor's degree in Computer Systems engineering at [ESCOM-IPN](https://en.wikipedia.org/wiki/ESCOM).   :notebook_with_decorative_cover:   
-:small_blue_diamond: I love playing videogames with my friends 🎮   
-:small_blue_diamond: Here you can see [my resume](https://drive.google.com/file/d/1hfEUK6oqEU2hE1pjPp0xU46FfEUi2WQu/view)  
-:small_blue_diamond: I really like to share the knowledge with any person who wants to learn something new 👨‍🏫  
-:small_blue_diamond: Beginner at competitive programming 🧠
- 🔺 [LeetCode](https://leetcode.com/EdgarRamirezFuentes/)
- 🔺 [HackerRank](http://codeforces.com/profile/EdgarRamirezFuentes)
- 🔺 [CodeForces](https://www.hackerrank.com/EdgarRamirezF)
- 
-## I have used technologies and programming languages such as...
-:small_blue_diamond: C/C++, Python (Django), PHP, JavaScript, Git/GitHub, MySQL, HTML5, CSS3 💻
+## About me 😄
+My name is Edgar and I am currently pursuing a Bachelor's degree in Computer Systems engineering at [ESCOM-IPN](https://en.wikipedia.org/wiki/ESCOM) at Mexico. I am currently interested in Web development, and that is why I am enrolled in the Computer Science for Web Programming course by HarvardX.
+
+<br/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />-->
+
+:small_blue_diamond: I enjoy playing videogames (specially League of legends) 🎮  
+:small_blue_diamond: I really like going to the movies with my friends 🍿   
+:small_blue_diamond: Coding in the night is my passion 😆    
+:small_blue_diamond: Sharing my knowledge is something I really like to do 👨‍🏫  
+:small_blue_diamond: Beginner at competitive programming 🧠   
+    🔺 [LeetCode](https://leetcode.com/EdgarRamirezFuentes/)
+    🔺 [HackerRank](http://codeforces.com/profile/EdgarRamirezFuentes)
+    🔺 [CodeForces](https://www.hackerrank.com/EdgarRamirezF) 🔺  
+:small_blue_diamond: Check out [my resume](https://drive.google.com/file/d/1hfEUK6oqEU2hE1pjPp0xU46FfEUi2WQu/view) for more info  
+
+<br/>
+
+### Programming languages and Tools :computer:
+<br/>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>   
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>  
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>  
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>  
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>  
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><br/> <br/> 
+<br/> 
+<br/> 
 
 
-## I am currently learning...
-:small_blue_diamond: C++  
-:small_blue_diamond: Algorithms and Data structures  
-:small_blue_diamond: Web development  
+<a href="https://github.com/EdgarRamirezFuentes">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarRamirezFuentes&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>
 
-## I am currently enrolled in...
-:small_blue_diamond: Bacherlor's degree in Computer systems at ESCOM-IPN  
-:small_blue_diamond: CS50's Introduction to Computer Science course by HarvardX   
-:small_blue_diamond: Competitive programming course by Competitive Programming Algorithms Club - ESCOM-IPN
+<br/>
+<br/>
+
+<a href="https://github.com/EdgarRamirezFuentes">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EdgarRamirezFuentes&show_icons=true&hide_border=true"/>
+</a>
+
+
 
  
 <!--
