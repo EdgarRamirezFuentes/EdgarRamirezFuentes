@@ -20,6 +20,11 @@ Hello! My name is Edgar Ramírez. I am a future Computer Systems Engineer who ea
 :small_blue_diamond: Algorithms and Data structures  
 :small_blue_diamond: Web development  
 
+## I am currently enrolled in...
+:small_blue_diamond: Bacherlor's degree in Computer systems at ESCOM-IPN  
+:small_blue_diamond: CS50's Introduction to Computer Science course by HarvardX   
+:small_blue_diamond: Competitive programming course by Competitive Programming Algorithms Club - ESCOM-IPN
+
  
 <!--
 **EdgarRamirezFuentes/EdgarRamirezFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
