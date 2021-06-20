@@ -10,10 +10,10 @@ My name is Edgar and I am currently pursuing a Bachelor's degree in Computer Sys
 
 <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />-->
 
-:small_blue_diamond: I enjoy playing videogames (specially League of legends) 🎮  
+:small_blue_diamond: I enjoy playing videogames 🎮  
 :small_blue_diamond: I really like going to the movies with my friends 🍿   
 :small_blue_diamond: Coding in the night is my passion 😆    
-:small_blue_diamond: Sharing my knowledge is something I really like to do 👨‍🏫  
+:small_blue_diamond: Sharing my knowledge is something I like to do 👨‍🏫  
 :small_blue_diamond: Beginner at competitive programming 🧠   
     🔺 [LeetCode](https://leetcode.com/EdgarRamirezFuentes/)
     🔺 [HackerRank](http://codeforces.com/profile/EdgarRamirezFuentes)
