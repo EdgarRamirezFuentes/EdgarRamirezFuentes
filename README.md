@@ -18,7 +18,7 @@ My name is Edgar and I am currently pursuing a Bachelor's degree in Computer Sys
     🔺 [LeetCode](https://leetcode.com/EdgarRamirezFuentes/)
     🔺 [HackerRank](http://codeforces.com/profile/EdgarRamirezFuentes)
     🔺 [CodeForces](https://www.hackerrank.com/EdgarRamirezF) 🔺  
-:small_blue_diamond: Check out [my resume](https://drive.google.com/file/d/1hvWmaF9QKDm3dJAk1tSuY6URHKeBw3a1/view?usp=sharing) for more info  
+:small_blue_diamond: Check out my [resume](https://drive.google.com/file/d/1XdHISjmgoEWPJs9OfurQ2Uwy2Ch8QpQF/view?usp=sharing) for more info  
 
 <br/>
 
