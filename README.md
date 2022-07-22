@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="wave" src="https://github.com/EdgarRamirezFuentes/EdgarRamirezFuentes/blob/master/EdgarRamirezFuentesREADME.jpg" heigth="500px">
+    <img alt="header" src="https://github.com/EdgarRamirezFuentes/EdgarRamirezFuentes/blob/master/EdgarRamirezFuentesHEADER.jpg" heigth="500px">
 </div>
 
 <br/>
