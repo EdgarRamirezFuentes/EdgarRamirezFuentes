@@ -1,8 +1,8 @@
-# print("Hello, world!  <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">")
+<div align="center">
+    <img alt="wave" src="https://github.com/EdgarRamirezFuentes/EdgarRamirezFuentes/blob/master/EdgarRamirezFuentesREADME.jpg" heigth="500px">
+</div>
 
-## About me 😄
-Hi! My name is Edgar and I'm a Computer Systems Engineering student at ESCOM-IPN. I'm a Python Developer Jr. focused on developing
-Web applications and APIs using Django and Django REST Framework. 
+<br/>
 
 ```python
 class EdgarRamirezFuentes:
