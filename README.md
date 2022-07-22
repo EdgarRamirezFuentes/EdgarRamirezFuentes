@@ -1,72 +1,84 @@
 # print("Hello, world!  <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">")
 
- ## [![Twitter Badge](https://img.shields.io/badge/-@EdgarRamirezDev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EdgarRamirezDev)](https://twitter.com/EdgarRamirezDev) [![Linkedin Badge](https://img.shields.io/badge/-edgarramirezfuentes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgarramirezfuentes/)](https://www.linkedin.com/in/edgarramirezfuentes/) [![Gmail Badge](https://img.shields.io/badge/-edgar.ramirez.fuentes.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgar.ramirez.fuentes.dev@gmail.com)](mailto:edgar.ramirez.fuentes.dev@gmail.com)
-
 ## About me 😄
-My name is Edgar and I am currently pursuing a Bachelor's degree in Computer Systems engineering at [ESCOM-IPN](https://en.wikipedia.org/wiki/ESCOM) at Mexico. I am currently interested in Web development and Cybersecurity.
+Hi! My name is Edgar and I'm a Computer Systems Engineering student at ESCOM-IPN. I'm a Python Developer Jr. focused on developing
+Web applications and APIs using Django and Django REST Framework. 
 
-<br/>
+```python
+class EdgarRamirezFuentes:
+
+    def __init__(self):
+        self.username = 'EdgarRamirezFuentes'
+        self.name = 'Edgar Ramírez',
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'TailWind', 'Jinja'],
+            'backend': ['C', 'C++', 'Python', 'PHP', 'Flask', 'Django', 'Django REST Framework'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
+            'devops': ['Heroku'],
+            'tools': ['Git', 'GitHub', 'GitLab', 'Postman'],
+            'misc': ['TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+        }
+        self.architecture = ['MVC', ]
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = EdgarRamirezFuentes()
+
+```
+
+<div>
+ <img  alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+ <a href="https://github.com/EdgarRamirezFuentes">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EdgarRamirezFuentes&show_icons=true&hide_border=true"/>
+</a>
+</div>
+<!--
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />-->
-
-:small_blue_diamond: I enjoy playing videogames 🎮  
-:small_blue_diamond: I really like going to the movies with my friends 🍿   
-:small_blue_diamond: Coding in the night is my passion 😆    
-:small_blue_diamond: Sharing my knowledge is something I like to do 👨‍🏫  
-:small_blue_diamond: Beginner at competitive programming 🧠   
-    🔺 [LeetCode](https://leetcode.com/EdgarRamirezFuentes/)
-    🔺 [HackerRank](https://www.hackerrank.com/EdgarRamirezF)
-    🔺 [CodeForces](http://codeforces.com/profile/EdgarRamirezFuentes) 🔺  
-:small_blue_diamond: [Resume](https://drive.google.com/file/d/1Oy6s1af8JGJ-gQyVGpyaClCD2YTCkYx-/view?usp=sharing)
-
-<br/>
-
-### Programming languages and Tools :computer:
-<br/>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>   
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>  
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>  
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>  
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>  
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><br/> <br/> 
-<br/> 
-<br/> 
-
-
 <a href="https://github.com/EdgarRamirezFuentes">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarRamirezFuentes&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<br/>
-<br/>
+### Programming languages and Technologies :computer:
 
-<a href="https://github.com/EdgarRamirezFuentes">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EdgarRamirezFuentes&show_icons=true&hide_border=true"/>
-</a>
+#### Frontend :art:
+<span><img height="25" src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26"> </span>
+<span><img height="25" src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=1572B6"></span>
+<span><img height="25" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3"> </span>
+<span><img height="25" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </span>
+
+#### Backend :bomb:
+<span><img height="25" src="https://img.shields.io/badge/C%20Programming%20Language-20232A?style=for-the-badge&logo=c&logoColor=A8B9CC"> </span>
+<span><img height="25" src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"> </span>
+<span><img height="25" src="https://img.shields.io/badge/php-20232A?style=for-the-badge&logo=php&logoColor=777BB4"> </span>
+<span><img height="25" src="https://img.shields.io/badge/python-20232A?style=for-the-badge&logo=python&logoColor=3776AB"> </span>
+<span><img height="25" src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=12553a"> </span>
+
+#### DBMS :bookmark_tabs:
+<span><img height="25" src="https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1"> </span>
+<span><img height="25" src="https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1"> </span>
+
+#### Other technologies ⚡
+<span><img height="25" src="https://img.shields.io/badge/visual%20studio%20code-20232A?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC"> </span>
+<span><img height="25" src="https://img.shields.io/badge/vim-20232A?style=for-the-badge&logo=vim&logoColor=019733"> </span>
+<span><img height="25" src="https://img.shields.io/badge/pycharm-20232A?style=for-the-badge&logo=pycharm&logoColor=white"> </span>
+<span><img height="25" src="https://img.shields.io/badge/IntelliJ%20IDEA-20232A?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> </span>
+<span><img height="25" src="https://img.shields.io/badge/ubuntu-20232A?style=for-the-badge&logo=ubuntu&logoColor=E95420"> </span>
+
+<span><img height="25" src="https://img.shields.io/badge/windows-20232A?style=for-the-badge&logo=windows&logoColor=0078D6"> </span>
+<span><img height="25" src="https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git&logoColor=F05032"> </span>
+<span><img height="25" src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=white"> </span>
+<span><img height="25" src="https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab&logoColor=FC6D26"> </span>
+<span><img height="25" src="https://img.shields.io/badge/GNU%20Bash-20232A?style=for-the-badge&logo=gnu%20bash&logoColor=4EAA25"> </span>
+<span><img height="25" src="https://img.shields.io/badge/markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white"> </span>
+<span><img height="25" src="https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman&logoColor=postman"> </span>
 
 
 
- 
-<!--
-**EdgarRamirezFuentes/EdgarRamirezFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Linkedin Badge](https://img.shields.io/badge/-edgarramirezfuentes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgarramirezfuentes/)](https://www.linkedin.com/in/edgarramirezfuentes/) [![Gmail Badge](https://img.shields.io/badge/-edgar.ramirez.fuentes.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgar.ramirez.fuentes.dev@gmail.com)](mailto:edgar.ramirez.fuentes.dev@gmail.com)
 -->
  
