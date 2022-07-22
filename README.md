@@ -10,11 +10,12 @@ class EdgarRamirezFuentes:
     def __init__(self):
         self.username = 'EdgarRamirezFuentes'
         self.name = 'Edgar Ramírez',
+        self.email = 'edgar.ramirez.fuentes.dev@gmail.com',
+        self.linkedin = 'https://www.linkedin.com/in/edgarramirezfuentes/',
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'TailWind', 'Jinja'],
             'backend': ['C', 'C++', 'Python', 'PHP', 'Flask', 'Django', 'Django REST Framework'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
-            'devops': ['Heroku'],
             'tools': ['Git', 'GitHub', 'GitLab', 'Postman'],
             'misc': ['TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }
@@ -28,6 +29,14 @@ if __name__ == '__main__':
     me = EdgarRamirezFuentes()
 
 ```
+### Currently Learning
+<span><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> </span>
+<span><img height="25" src="https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"> </span>
+<span><img height="25" src="https://img.shields.io/badge/spring-20232A?style=for-the-badge&logo=spring&logoColor=6DB33F"> </span>
+<span><img height="25" src="https://img.shields.io/badge/spring%20boot-20232A?style=for-the-badge&logo=spring%20boot&logoColor=6DB33F"> </span>
+
+
+
 
 <div>
  <img  alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
@@ -36,7 +45,6 @@ if __name__ == '__main__':
 </a>
 </div>
 <!--
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <a href="https://github.com/EdgarRamirezFuentes">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarRamirezFuentes&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
@@ -76,9 +84,7 @@ if __name__ == '__main__':
 <span><img height="25" src="https://img.shields.io/badge/markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white"> </span>
 <span><img height="25" src="https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman&logoColor=postman"> </span>
 
-
-
-
+## Contact me 
 [![Linkedin Badge](https://img.shields.io/badge/-edgarramirezfuentes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgarramirezfuentes/)](https://www.linkedin.com/in/edgarramirezfuentes/) [![Gmail Badge](https://img.shields.io/badge/-edgar.ramirez.fuentes.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgar.ramirez.fuentes.dev@gmail.com)](mailto:edgar.ramirez.fuentes.dev@gmail.com)
 -->
  
