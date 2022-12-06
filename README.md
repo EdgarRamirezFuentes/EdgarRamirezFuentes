@@ -17,9 +17,8 @@ class EdgarRamirezFuentes:
             'backend': ['C', 'C++', 'Python', 'PHP', 'Flask', 'Django', 'Django REST Framework'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
             'tools': ['Git', 'GitHub', 'GitLab', 'Postman'],
-            'misc': ['TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'misc': ['TDD', 'SCRUM', 'SOLID']
         }
-        self.architecture = ['MVC', ]
 
     def __str__(self):
         return self.name
@@ -30,10 +29,10 @@ if __name__ == '__main__':
 
 ```
 ### Currently Learning
-<span><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> </span>
+<span><img height="25" src="https://img.shields.io/badge/.Net-20232A?style=for-the-badge&logo=.net&logoColor=512BD4"> </span>
 <span><img height="25" src="https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"> </span>
-<span><img height="25" src="https://img.shields.io/badge/spring-20232A?style=for-the-badge&logo=spring&logoColor=6DB33F"> </span>
-<span><img height="25" src="https://img.shields.io/badge/spring%20boot-20232A?style=for-the-badge&logo=spring%20boot&logoColor=6DB33F"> </span>
+<span><img height="25" src="https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=000000"> </span>
+<span><img height="25" src="https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=326CE5"> </span>
 
 
 
