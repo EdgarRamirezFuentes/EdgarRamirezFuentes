@@ -14,10 +14,9 @@ class EdgarRamirezFuentes:
         self.linkedin = 'https://www.linkedin.com/in/edgarramirezfuentes/',
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'TailWind', 'Jinja'],
-            'backend': ['C', 'C++', 'Python', 'PHP', 'Flask', 'Django', 'Django REST Framework'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
-            'tools': ['Git', 'GitHub', 'GitLab', 'Postman'],
-            'misc': ['TDD', 'SCRUM', 'SOLID']
+            'backend': ['C', 'C++', 'Python', 'PHP', 'Java'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MS SQL Server'],
+            'tools': ['Git', 'GitHub', 'GitLab', 'Postman', 'DBeaver'],
         }
 
     def __str__(self):
