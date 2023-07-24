@@ -28,23 +28,36 @@ if __name__ == '__main__':
 
 ```
 ### Currently Learning
+<span><img height="25" src="https://img.shields.io/badge/.Net-20232A?style=for-the-badge&logo=.net&logoColor=512BD4"> </span>
+
+
+
+
+### Github statistics
+<div>
+    <img  alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+     <a href="https://github.com/EdgarRamirezFuentes">
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=EdgarRamirezFuentes&show_icons=true&hide_border=true"/>
+    </a>
+</div>
+<br>
+<br>
+<div>
+    <a href="https://github.com/EdgarRamirezFuentes">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarRamirezFuentes&theme=radical" />
+    </a>
+    <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</div>
+
+
+<!--
 <span><img height="25" src="https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"> </span>
 <span><img height="25" src="https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=326CE5"> </span>
 
-
-
-
-<div>
- <img  alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
- <a href="https://github.com/EdgarRamirezFuentes">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EdgarRamirezFuentes&show_icons=true&hide_border=true"/>
-</a>
-</div>
-<!--
 <span><img height="25" src="https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=000000"> </span>
 <span><img height="25" src="https://img.shields.io/badge/.Net-20232A?style=for-the-badge&logo=.net&logoColor=512BD4"> </span>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 <a href="https://github.com/EdgarRamirezFuentes">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarRamirezFuentes&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
