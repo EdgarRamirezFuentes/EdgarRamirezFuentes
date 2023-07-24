@@ -29,6 +29,8 @@ if __name__ == '__main__':
 ```
 ### Currently Learning
 <span><img height="25" src="https://img.shields.io/badge/.Net-20232A?style=for-the-badge&logo=.net&logoColor=512BD4"> </span>
+<span><img height="25" src="https://img.shields.io/badge/OCI-20232A?style=for-the-badge&logo=oracle&logoColor=FFFFFF"> </span>
+
 
 
 
