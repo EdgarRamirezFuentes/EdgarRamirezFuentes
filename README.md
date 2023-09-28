@@ -13,10 +13,11 @@ class EdgarRamirezFuentes:
         self.email = 'edgar.ramirez.fuentes.dev@gmail.com',
         self.linkedin = 'https://www.linkedin.com/in/edgarramirezfuentes/',
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'TailWind', 'Jinja'],
-            'backend': ['C', 'C++', 'Python', 'PHP', 'Java'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
+            'backend': ['Python', 'Java'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MS SQL Server'],
             'tools': ['Git', 'GitHub', 'GitLab', 'Postman', 'DBeaver'],
+            'cloud': ['AWS',]
         }
 
     def __str__(self):
@@ -28,8 +29,8 @@ if __name__ == '__main__':
 
 ```
 ### Currently Learning
-<span><img height="25" src="https://img.shields.io/badge/.Net-20232A?style=for-the-badge&logo=.net&logoColor=512BD4"> </span>
-<span><img height="25" src="https://img.shields.io/badge/OCI-20232A?style=for-the-badge&logo=oracle&logoColor=F80000"> </span>
+<span><img height="25" src="https://img.shields.io/badge/Spring Boot-20232A?style=for-the-badge&logo=springboot&logoColor=6DB33F"> </span>
+<span><img height="25" src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FFF"> </span>
 
 
 
