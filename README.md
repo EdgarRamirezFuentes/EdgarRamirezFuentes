@@ -16,7 +16,7 @@ class EdgarRamirezFuentes:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'backend': ['Python', 'Java'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MS SQL Server'],
-            'tools': ['Git', 'GitHub', 'GitLab', 'Postman', 'DBeaver'],
+            'tools': ['Git', 'Postman', 'Docker', 'Bash'],
             'cloud': ['AWS',]
         }
 
