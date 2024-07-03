@@ -14,10 +14,12 @@ class EdgarRamirezFuentes:
         self.linkedin = 'https://www.linkedin.com/in/edgarramirezfuentes/',
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
-            'backend': ['Python', 'Java'],
+            'backend': ['Python', 'Java', 'Kotlin'],
+            'frameworks': ['Spring Boot', 'Django', 'React'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MS SQL Server'],
             'tools': ['Git', 'Postman', 'Docker', 'Bash'],
-            'cloud': ['AWS',]
+            'cloud': ['AWS',],
+            'certifications': ['AWS Certified Developer Associate',]
         }
 
     def __str__(self):
