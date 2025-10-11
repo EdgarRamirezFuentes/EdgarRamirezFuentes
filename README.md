@@ -19,7 +19,12 @@ class EdgarRamirezFuentes:
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MS SQL Server'],
             'tools': ['Git', 'Postman', 'Docker', 'Bash'],
             'cloud': ['AWS',],
-            'certifications': ['AWS Certified Developer Associate',]
+            'certifications': [
+                'AWS Certified Developer Associate',
+                'Cisco Certified Network Associate',
+                'Cisco Certified Devnet Associate',
+                'Cisco Certified DevNet Specialist'
+            ]
         }
 
     def __str__(self):
@@ -30,13 +35,6 @@ if __name__ == '__main__':
     me = EdgarRamirezFuentes()
 
 ```
-### Currently Learning
-<span><img height="25" src="https://img.shields.io/badge/Spring Boot-20232A?style=for-the-badge&logo=springboot&logoColor=6DB33F"> </span>
-<span><img height="25" src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FFF"> </span>
-
-
-
-
 
 ### Github statistics
 <div>
