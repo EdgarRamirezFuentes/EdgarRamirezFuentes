@@ -17,13 +17,14 @@ class EdgarRamirezFuentes:
             'backend': ['Python', 'Java', 'Kotlin'],
             'frameworks': ['Spring Boot', 'Django', 'React'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MS SQL Server'],
-            'tools': ['Git', 'Postman', 'Docker', 'Bash'],
+            'tools': ['Git', 'Postman', 'Docker', 'Bash', 'Kubernetes'],
             'cloud': ['AWS',],
             'certifications': [
                 'AWS Certified Developer Associate',
                 'Cisco Certified Network Associate',
                 'Cisco Certified Devnet Associate',
-                'Cisco Certified DevNet Specialist'
+                'Cisco Certified DevNet Specialist',
+                'Cisco Certified AI Technical Practitioner'
             ]
         }
 
